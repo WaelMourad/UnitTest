@@ -16,11 +16,12 @@
 		○ Find bugs early which saves development time
 		○ Significantly reduce production bugs
 		○ Unit tests make complex code easy to understand
-		○  Provide some sort of documentation of code for developers
+		○ Provide some sort of documentation of code for developers
 		○ Easier to change and refactor code
 		○ Developers became confident
 		
 	• Unit Test Naming Convention:
 		○ Method: [UnitOfWork_StateUnderTest_ExpetedBehaviour]
-			       [ActualMethodName_ParametersGiven_ExpectedResult]
-		○ Class:      [ClassNameTest]
+			  [ActualMethodName_ParametersGiven_ExpectedResult]
+			       
+		○ Class:  [ClassNameTest]
